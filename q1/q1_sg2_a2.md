@@ -2,8 +2,11 @@
 # Code Quality Assessment Worksheet
 
 9 - Pinatubo
-#19 / Sofia Bengco
-#20 / Angelica Cara
+
+#19 / Sofia Bengco 
+
+#20 / Angelica Cara 
+
 #21 / Samantha Deocampo
 
 ## 1. Efficiency
