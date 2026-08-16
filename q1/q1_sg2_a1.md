@@ -63,9 +63,9 @@ START
     INPUT quantity
     INPUT payment
 
- total = price × quantity
- change = payment - total
+    total = price × quantity
+    change = payment - total
 
-   DISPLAY total
-   DISPLAY change
+    DISPLAY total
+    DISPLAY change
 END
