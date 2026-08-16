@@ -4,7 +4,7 @@
 
 ## 19/Sofia Margaret M. Bengco
 ## 20/Angelica Mei S. Cara
-## 22/Samantha Rose S. Deocampo
+## 21/Samantha Rose S. Deocampo
 9 - Pinatubo
 Aug 14, 2026
 
