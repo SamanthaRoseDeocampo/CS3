@@ -57,7 +57,7 @@ Example Solution:
 
 
 ## Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
-Pseudocode:
+### Pseudocode:
 START
     INPUT price
     INPUT quantity
