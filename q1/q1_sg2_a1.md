@@ -42,6 +42,10 @@ Sub-Problem:
 4. Indecision of students 
 
 CT Skill:
+1. Algorithmic Thinking
+2. Data Representation
+3. Algorithmic Thinking
+4. Decomposition
 
 Example Solution:
 
