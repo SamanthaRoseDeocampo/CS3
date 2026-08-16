@@ -54,4 +54,14 @@ Example Solution:
 
 ## Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
 Pseudocode:
-1.
+START
+    INPUT price
+    INPUT quantity
+    INPUT payment
+
+    total = price × quantity
+    change = payment - total
+
+    DISPLAY total
+    DISPLAY change
+END
