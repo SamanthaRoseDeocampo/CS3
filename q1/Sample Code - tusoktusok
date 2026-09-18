@@ -19,6 +19,5 @@ Class Sauce:
     self.name = name
     self.taste = taste
 
-
 fishhall Tusoktusok("Fishball")
 vinegar = Sauce("vinegar","sour")
