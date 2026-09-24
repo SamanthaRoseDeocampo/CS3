@@ -10,7 +10,8 @@ https://github.com/SamanthaRoseDeocampo/CS3/blob/5e62f3073111162f78559913021a32e
 ## FA 1
 https://github.com/SamanthaRoseDeocampo/CS3/blob/99f35ab2101a8ade8095291ed46cbecaf7cf0eff/q1/q1_sg2_a1.md
 
-FA 2
+## FA 2
+https://github.com/SamanthaRoseDeocampo/CS3/blob/d8a5036b4f3842226ad33d541765f83dcfb1d1c8/q1/q1_sg2_a3.py
 
 FA 4
 
