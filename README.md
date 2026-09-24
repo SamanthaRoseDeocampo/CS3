@@ -22,4 +22,5 @@ https://github.com/SamanthaRoseDeocampo/CS3/blob/43f2c920e9b297d6a719d94b29668e8
 ## FA 6
 https://github.com/SamanthaRoseDeocampo/CS3/blob/f80caedfb49a5afddd4d67b06eb2b4968a561257/q1/q1_sg6_Pinatubo_Deocampo.py
 
-FA 7
+## FA 7
+https://github.com/SamanthaRoseDeocampo/CS3/blob/c42cda22f9a1ab5fd0f4727a9cd0a9a30be26154/q1/q1_sg7_Pinatubo_Deocampo.py
