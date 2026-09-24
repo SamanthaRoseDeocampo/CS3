@@ -16,7 +16,8 @@ https://github.com/SamanthaRoseDeocampo/CS3/blob/d8a5036b4f3842226ad33d541765f83
 ## FA 4
 https://github.com/SamanthaRoseDeocampo/CS3/blob/c995b1fec061721f3e6db4e607c93dc3b1c6428e/q1/FA4_Pinatubo_Bengco_Cara_Deocampo.jpg
 
-FA 5
+## FA 5
+https://github.com/SamanthaRoseDeocampo/CS3/blob/43f2c920e9b297d6a719d94b29668e83ba18b58f/q1/q1_sg5_a1_Pinatubo_Deocampo.py
 
 FA 6
 
