@@ -1,10 +1,11 @@
-Samantha Rose S. Deocampo
-9 - Pinatubo
+# Samantha Rose S. Deocampo
+# 9 - Pinatubo
 
-Sample Code - car
+## Sample Code - car
 https://github.com/SamanthaRoseDeocampo/CS3/blob/ca580890c604f7b898d297535f2be0071084f6de/q1/Sample%20Code%20-%20car
 
-Sample Code - tusoktusok
+## Sample Code - tusoktusok
+https://github.com/SamanthaRoseDeocampo/CS3/blob/5e62f3073111162f78559913021a32ea24e785ae/q1/Sample%20Code%20-%20tusoktusok
 
 FA 1
 
